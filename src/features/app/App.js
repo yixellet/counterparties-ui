@@ -7,9 +7,9 @@ import LoginButton from '../loginButton/LoginButton';
 function App() {
   return (
     <div className="App">
-    <Map />
-    <ControlPanel />
-    <LoginButton />
+      <Map />
+      <ControlPanel />
+      <LoginButton />
     </div>
   );
 }
