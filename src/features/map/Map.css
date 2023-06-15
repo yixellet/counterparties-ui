@@ -1,0 +1,6 @@
+.map {
+  width: 50vw;
+  height: 100vh;
+  background-color: rgb(177, 209, 238);
+  z-index: 0;
+}

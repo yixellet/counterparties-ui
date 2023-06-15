@@ -1,0 +1,7 @@
+.controlPanel {
+  width: 50vw;
+  height: 100vh;
+  background-color: #F0F1EF;
+  box-shadow: 3px 3px 7px #b4b4b4;
+  z-index: 10;
+}
