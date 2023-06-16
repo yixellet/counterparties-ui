@@ -1,0 +1,38 @@
+.entity {
+  margin: 30px;
+  width: calc(100% - 60px);
+  height: calc(100% - 60px);
+  position: relative;
+}
+
+.shortName {
+  font-family: Roboto;
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.fullName {
+  font-family: Roboto;
+  font-size: .8rem;
+  line-height: 1.5;
+  margin-top: 10px;
+}
+
+.form {
+  position: relative;
+}
+
+.input_select {
+  min-width: 300px;
+  max-width: 600px;
+}
+
+.legal_type {
+  font-weight: 900;
+  color: #000;
+}
+
+.legal_subsubtype {
+  font-size: .8rem;
+}
